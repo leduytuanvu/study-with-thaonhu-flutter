@@ -1,5 +1,5 @@
-# This is an app to help you study for the test, use bloc architecture
-# Screenshots
+## This is an app to help you study for the test, use bloc architecture
+## Screenshots
 ![z4018183253398_189b08078f40059755af76b2e79ce2cc](https://user-images.githubusercontent.com/81070850/210972680-58ab9fc4-4792-48ce-988e-fa2fdf954014.jpg)
 ![z4018183251238_c6efbf3418b46d10501321e2204f5870](https://user-images.githubusercontent.com/81070850/210972690-857d60fd-5864-4316-b596-66fbbc54e57f.jpg)
 ![z4018183259457_4640d81c2ea3b69a6aacb9a74513beb0](https://user-images.githubusercontent.com/81070850/210972696-dd9f9c12-2d80-4744-a2a1-77b93870b297.jpg)
